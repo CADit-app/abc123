@@ -1,0 +1,15 @@
+{
+  "entryPoint": "main.ts",
+  "name": "abc123",
+  "images": [
+    {
+      "path": "images/IMG_4513.png",
+      "isPrimary": true
+    }
+  ],
+  "metadata": {
+    "createdAt": "2026-10-18T20:38:23.513Z",
+    "createdWith": "cadit-web",
+    "designId": "RRPCwSMcj7Tz3i7"
+  }
+}
